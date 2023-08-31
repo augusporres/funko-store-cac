@@ -1,5 +1,5 @@
 # funko-store-cac
-## Proyecto integrador del programa codo a codo. Tiene online de figuras Funko.
+## Proyecto integrador del programa codo a codo. Tienda online de figuras Funko.
 
 Capacidad de explorar la tienda, consultar precio, stokc y características. Además se pueden registrar para agregar productos al carrito y ver el monto a pagar.
 
